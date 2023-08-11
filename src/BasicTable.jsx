@@ -47,9 +47,9 @@ export default function BasicTable({ passedInProps }) {
               sx={{ '&:last-child td, &:last-child th': { border: 0 } }}
             >
               {console.log(row)}
-              <TableCell component='th' scope='row'>
+              {/* <TableCell component='th' scope='row'>
                 {row.name}
-              </TableCell>
+              </TableCell> */}
               <TableCell align='right'>{row.txId}</TableCell>
               <TableCell align='right'>{row.user}</TableCell>
               <TableCell align='right'>{row.date}</TableCell>
