@@ -3,10 +3,17 @@
 }
 
 #sidebar {
-  background-color: blue;
+  background-color: #a0d6b4;
+  width: 33dvw;
+  height: 100dvh;
 }
 
 #dashboard {
-  background-color: red;
+  background-color: #a3c1ad;
+  width: 66dvw;
+  height: 100dvh;
+}
 
+#icon-button {
+  background-color: black;
 }
