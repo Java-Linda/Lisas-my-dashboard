@@ -1,0 +1,12 @@
+#app {
+  display: flex;
+}
+
+#sidebar {
+  background-color: blue;
+}
+
+#dashboard {
+  background-color: red;
+
+}
